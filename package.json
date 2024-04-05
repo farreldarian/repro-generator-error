@@ -7,5 +7,9 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "prisma": "^5.12.1",
+    "prisma-generator-drizzle": "^0.6.7"
   }
 }
